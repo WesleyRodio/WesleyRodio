@@ -1,7 +1,7 @@
 ## Oii! eu sou o Wesley Rodio
 <div align="">
   <a href="https://github.com/wesleyrodio">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=WesleyRodio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=WesleyRodio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyRodio&show_icons=true&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
