@@ -1,6 +1,6 @@
 ## Oii eu sou Wesley
 <div align="">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/wesleyrodio">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=WesleyRodio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyRodio&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -9,7 +9,7 @@
   <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wesley-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/923781750759522354/932459294853591080/272007121_977277356233918_398153015002060814_n.png">
+  <img align="right" alt="Wesley-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/923781750759522354/932459294853591080/272007121_977277356233918_398153015002060814_n.png">
 </div>
 
   ##
