@@ -8,7 +8,7 @@
   <img align="center" alt="Wesley-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Wesley-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="Wesley-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />        
-  <img align="right" alt="Wesley-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/97860676?v=4">
+  <img align="right" alt="Wesley-pic" height="150" style="padding-left:15px;border-radius:50px;" src="https://avatars.githubusercontent.com/u/97860676?v=4">
 </div>
 
   ##
