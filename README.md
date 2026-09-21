@@ -51,11 +51,11 @@
 
 ###
 
-<p align="left">I am Wesley Rodio, I live in Brazil.<br><br>- 🔭 I'm working as a web developer<br>- 📚 I am currently learning Next.js<br>- ⚡ In my free time I usually look for new technologies</p>
+<p align="left">I am Wesley Rodio, I live in Brazil.<br><br>- 🔭 I'm working as a web developer<br>- 📚 I am currently learning Vite App with TanStack Router<br>- ⚡ In my free time I usually look for new technologies</p>
 
 ###
 
-<!-- <h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
@@ -63,5 +63,5 @@
   <img src="https://streak-stats.demolab.com?user=wesleyrodio&locale=en&mode=month&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-### -->
+###
 
